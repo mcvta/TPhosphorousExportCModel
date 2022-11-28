@@ -3,7 +3,7 @@ This repository includes the python code of two models that can be used to predi
 The system of linear equations is solved with the implementation of the Bayesian optimization algorithm (Hyperopt)(Bergstra et al 2013, Bergstra et al 2013). 
 
 The results of this study are described in the following manuscript: 
-**Almeida, M.C., Rodrigues, A. and Coelho P.S.: A methodology to improve the accuracy of Total Phosphorous diffuse loads estimates from agroforestry watersheds**:
+**Almeida, M.C., Rodrigues, A.C. and Coelho P.S.: A methodology to improve the accuracy of Total Phosphorous diffuse loads estimates from agroforestry watersheds**:
 
 
 ## Input data
