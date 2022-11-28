@@ -1,4 +1,6 @@
 # TPhosphorousExportCModel
+[![DOI](https://zenodo.org/badge/571532902.svg)](https://zenodo.org/badge/latestdoi/571532902)
+
 This repository includes the python code of two models that can be used to predict total phosphorous export coefficients from a system of linear equations.
 The system of linear equations is solved with the implementation of the Bayesian optimization algorithm (Hyperopt)(Bergstra et al 2013, Bergstra et al 2013). 
 
